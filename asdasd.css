@@ -1,0 +1,13 @@
+.flex{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.golo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: cornflowerblue;
+}
